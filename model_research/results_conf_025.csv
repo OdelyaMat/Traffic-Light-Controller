@@ -1,0 +1,5 @@
+Model Name,Precision,Recall,F1 Score,Count Ratio,True Positives,False Positives,False Negatives
+yolo11l.pt,0.5717,0.3369,0.4240,0.5894,26830,20103,52798
+yolo11m.pt,0.6127,0.3361,0.4341,0.5486,26763,16917,52865
+yolo11n.pt,0.5032,0.1896,0.2754,0.3767,15096,14903,64532
+rtdetr-l.pt,0.3751,0.6576,0.4777,1.7530,52364,87226,27264

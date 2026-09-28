@@ -1,0 +1,5 @@
+Model Name,Precision,Recall,F1 Score,Count Ratio,True Positives,False Positives,False Negatives,Mean Process Time (ms)
+yolo11n.pt,0.6615,0.0867,0.1534,0.1311,6907,3534,72721,47.62
+yolo11m.pt,0.7264,0.2283,0.3474,0.3143,18181,6849,61447,235.12
+yolo11l.pt,0.7017,0.2283,0.3446,0.3254,18183,7730,61445,258.41
+rtdetr-l.pt,0.6317,0.5087,0.5636,0.8053,40507,23619,39121,1802.55

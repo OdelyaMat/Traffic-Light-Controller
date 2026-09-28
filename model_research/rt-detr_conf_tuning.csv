@@ -1,0 +1,6 @@
+Model Name,Conf,Precision,Recall,F1 Score,Count Ratio,True Positives,False Positives,False Negatives,Mean Process Time (ms)
+rtdetr-l.pt,0.20,0.2965,0.6788,0.4127,2.2899,4035,9576,1909,403.04
+rtdetr-l.pt,0.30,0.4510,0.6297,0.5256,1.3962,3743,4556,2201,401.97
+rtdetr-l.pt,0.40,0.5685,0.5723,0.5704,1.0067,3402,2582,2542,413.88
+rtdetr-l.pt,0.50,0.6403,0.5113,0.5686,0.7985,3039,1707,2905,422.11
+rtdetr-l.pt,0.60,0.6839,0.4302,0.5281,0.6290,2557,1182,3387,424.28
